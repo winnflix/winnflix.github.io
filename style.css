@@ -131,7 +131,7 @@ section.active {
 .table {
     display: flex;
     width: 100%;
-    max-width: 960px;
+    max-width: 880px;
     padding: 12px;
     background-color: var(--dark-gray);
     border: 1px solid var(--light-gray);
@@ -147,12 +147,12 @@ section.active {
   
 .table span {
     padding: 1.35em 1.5rem;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05);
     color: rgba(255, 255, 255, 0.7);
     font-size: 14px;
     font-weight: 460;
 }
-  
+
 .table span:first-of-type, .table span:last-of-type {
     border: none;
 }
